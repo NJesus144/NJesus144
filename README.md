@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Nalbert de Jesus 👋
 
 
-<div  style="display: inline_block">
+<div  >
   <a href="https://github.com/NJesus144/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NJesus144&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJesus144&layout=compact&langs_count=16&theme=dracula" /> </a>
 </div>
   
 
-<div><br/>
+<div>
  <a href="https://github.com/NJesus144/github-readme-stats">
   <img align="center" height="30"alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" height="30"alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
