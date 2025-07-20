@@ -2,7 +2,7 @@
 **Desenvolvedor full stack**
 
 -----------------------
-  👨‍💻 Sobre mim
+###  👨‍💻 Sobre mim
 - Desenvolvedor focado em aplicações escaláveis, performáticas e bem estruturadas
 
 - Interesse contínuo por arquitetura de software, DevOps e boas práticas de desenvolvimento
