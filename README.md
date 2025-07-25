@@ -21,6 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white)
+![PrismaORM](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white)
 
 
   
