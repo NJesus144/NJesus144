@@ -7,7 +7,7 @@
 
 - Interesse contínuo por arquitetura de software, DevOps e boas práticas de desenvolvimento
 
-- Atualmente explorando soluções com TypeScript, REST, NestJS e AWS
+- Atualmente explorando soluções com NextJs, React, TypeScript, REST, Node, NestJS e AWS
 -------------------
   
 ### 💻 Tech Stack
